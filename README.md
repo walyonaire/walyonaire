@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @walyonaire
-- 👀 I’m interested in PHP, JS, JQuery, Bootstrap, Foundation, etc...
+- 👀 I’m interested in PHP, JS, JQuery, Bootstrap, Foundation, OSX, Ubuntu, etc...
 - 🌱 I’m currently learning mobile development
 - 💞️ I’m looking to collaborate on the elements listed above
 - 📫 How to reach me : walyonaire at gmail.com
